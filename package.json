@@ -1,7 +1,6 @@
 {
-  "name": "remove-accent",
-  "version": "1.0.0",
+  "name": "remove-accent-vietnamese",
+  "version": "1.0.2",
   "dependencies": {
-    
   }
 }
