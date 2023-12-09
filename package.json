@@ -1,6 +1,16 @@
 {
   "name": "remove-accent-vietnamese",
-  "version": "1.0.3",
-  "dependencies": {
-  }
+  "version": "1.0.5",
+  "description": "Vietnamese-Accent-Removal",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenproxx/remove-accent-vietnamese"
+  },
+  "keywords": [
+    "remove", "accent", "vietnamese", "vietnamese-accent-removal", "vietnamese-accent", "vietnamese-removal", "vietnamese-remove"
+  ],
+  "author": "kenproxx",
+  "license": "ISC",
+  "homepage": "https://github.com/kenproxx/remove-accent-vietnamese"
 }

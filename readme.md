@@ -7,7 +7,7 @@ npm i remove-accent-vietnamese
 ```
 
 ```js
-<script type="text/javascript" src='https://cdn.jsdelivr.net/gh/kenproxx/remove-accent-vietnamese@main/script.js'></script>
+<script type="text/javascript" src='https://cdn.jsdelivr.net/gh/kenproxx/remove-accent-vietnamese@main/index.js'></script>
 ```
 
 # Usage
